@@ -17,5 +17,5 @@ def git_push(file_list, commit_message):
         git_push(file_list, commit_message)
 
 
-git_push(['test.txt'], 'hello world commit']
+git_push(['test.txt'], 'hello world commit')
 
